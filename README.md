@@ -1,4 +1,9 @@
 # 신촌 해커톤 발표자료
+
+![dae-ha](./daeha_img.png)
+
+>> [ 해커톤 발표 자료 : https://github.com/poongnewga/Presentation_For_DaeHa ](https://github.com/poongnewga/Presentation_For_DaeHa)
+
 신촌의 여러 대학이 참여했던 신촌 해커톤에 안암의 고려대학교가 초청받게 되어 함께 참가했습니다.
 
 
